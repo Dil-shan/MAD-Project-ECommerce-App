@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/drawable/gradient_background.xml" value="0.186" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/drawable/toolbar_background.xml" value="0.21" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/activity_main.xml" value="0.17980072463768115" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/activity_otp.xml" value="0.17980072463768115" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/activity_set_up_profile.xml" value="0.16" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/activity_slider.xml" value="0.11503623188405797" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/activity_verification.xml" value="0.11503623188405797" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/activity_welcome.xml" value="0.17980072463768115" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/all_category.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/all_item_gets.xml" value="0.18389955686853768" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/card_item.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/category.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/fragment_card.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/fragment_catagory.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/fragment_home.xml" value="0.11614583333333334" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/fragment_item.xml" value="0.11354166666666667" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/fragment_pay.xml" value="0.24010416666666667" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/fragment_second.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/fragment_track_order.xml" value="0.24682971014492755" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/grocery_item.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/item_category.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/nava_header.xml" value="0.20677083333333332" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/navigation_dware.xml" value="0.19429347826086957" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/slider_item.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/slider_view.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/toy_item.xml" value="0.259375" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/welcome_slider1.xml" value="0.11503623188405797" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/welcome_slider2.xml" value="0.11503623188405797" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/welcome_slider3.xml" value="0.11503623188405797" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/layout/welcome_slider4.xml" value="0.11503623188405797" />
+        <entry key="..\:/ECommerceApps-main/app/src/main/res/menu/nav_dawer.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/drawable/backgrounds_shapes.xml" value="0.27384615384615385" />
+        <entry key="app/src/main/res/drawable/ic_add_cart.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_book.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_cleansing.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_credit_card.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/activity_otp.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/activity_slider.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/activity_verification.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/welcome_slider1.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/welcome_slider2.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/welcome_slider3.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/welcome_slider4.xml" value="0.25769927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

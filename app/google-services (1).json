@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997733061996",
+    "project_id": "ecommerceapps-fa4ee",
+    "storage_bucket": "ecommerceapps-fa4ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997733061996:android:1fddc80e3afbfb6fd7cf49",
+        "android_client_info": {
+          "package_name": "com.malkinfo.ecommerceapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997733061996-1hli9dli03digfp0ietdqlf8his9ju0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGNTZB7fNOoWnGVEZUg4JQ4AHkUTfU0gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997733061996-1hli9dli03digfp0ietdqlf8his9ju0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

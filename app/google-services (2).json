@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243825802950",
+    "project_id": "madfirebase-4fd55",
+    "storage_bucket": "madfirebase-4fd55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243825802950:android:45646c987641b9078de1c7",
+        "android_client_info": {
+          "package_name": "com.malkinfo.ecommerceapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243825802950-t9rhecq5o0pcqlt1llp7pvhdulamrrvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIJedSPvnfpfE9xFKydE3dZflQup2uQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243825802950-t9rhecq5o0pcqlt1llp7pvhdulamrrvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
